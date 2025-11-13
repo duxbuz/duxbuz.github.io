@@ -4,9 +4,6 @@
 layout: default
 title: duxbuz
 ---
-<head>
-  <link rel="stylesheet" href="/css/my.css">
-</head>
 
 <img src="/images/Cat-woman.png" alt="My Cat" class="img-small" />
 # ✏️ duxbuz — Art Portfolio
