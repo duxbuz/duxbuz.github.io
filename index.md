@@ -2,7 +2,7 @@
 layout: default
 title: duxbuz
 ---
-![My cat](/images/cat woman.png)
+<img src="/images/cat-woman.png" alt="My Cat" class="img-small" />
 # ✏️ duxbuz — Art Portfolio
 
 Welcome to my online gallery. I focus on **draughtsmanship-driven art** — from comic book illustration and digital painting to gouache portraits and landscapes.
