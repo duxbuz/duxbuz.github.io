@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" href="/css/my.css">
+</head>
+
 ---
 layout: default
 title: duxbuz
