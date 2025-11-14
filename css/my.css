@@ -1,11 +1,12 @@
 .img-small {
-  width: 100px;
+  width: 70px;
   float: right;
   margin: 10px;
   border: 2px solid #333;
 }
 
-a.button[href*="github.com"] {
+footer a.button {
   display: none !important;
 }
+
 
