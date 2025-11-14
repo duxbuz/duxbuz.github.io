@@ -1,11 +1,11 @@
-
-
 ---
 layout: default
 title: duxbuz
 ---
+
 <link rel="stylesheet" href="/css/my.css">
 <img src="/images/Cat-woman.png" alt="My Cat" class="img-small" />
+
 # ✏️ duxbuz — Art Portfolio
 
 Welcome to my online gallery. I focus on **draughtsmanship-driven art** — from comic book illustration and digital painting to gouache portraits and landscapes.
