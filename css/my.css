@@ -4,3 +4,8 @@
   margin: 10px;
   border: 2px solid #333;
 }
+
+a.button[href*="github.com"] {
+  display: none !important;
+}
+
