@@ -1,5 +1,6 @@
 .img-small {
-  width: 90px;
+  width: 190px;
   float: right;
   margin: 10px;
+  border-color: #333
 }
