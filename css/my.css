@@ -1,7 +1,7 @@
-.img-small {
-  width: 50px;
-  float: right;
-  margin: 10px;
+img.img-small {
+  width: 50px !important;
+  float: right !important;
+  margin: 10px !important;
 }
 
 
