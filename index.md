@@ -1,9 +1,7 @@
 ---
-layout: default
 title: duxbuz
 ---
 
-<link rel="stylesheet" href="/css/my.css">
 <img src="/images/Cat-woman.png" alt="My Cat" class="img-small" />
 
 # ✏️ duxbuz — Art Portfolio
